@@ -1,0 +1,68 @@
+const orders = [
+  {
+    id: "#1042",
+    customer: "John Smith",
+    product: "Pro Plan",
+    date: "Sep 8, 2026",
+    amount: "$249",
+    status: "Completed",
+  },
+  {
+    id: "#1041",
+    customer: "Sarah Lee",
+    product: "Basic Plan",
+    date: "Sep 8, 2026",
+    amount: "$99",
+    status: "Pending",
+  },
+  {
+    id: "#1040",
+    customer: "Alex Brown",
+    product: "Pro Plan",
+    date: "Sep 7, 2026",
+    amount: "$249",
+    status: "Completed",
+  },
+  {
+    id: "#1039",
+    customer: "Emma Wilson",
+    product: "Enterprise",
+    date: "Sep 7, 2026",
+    amount: "$599",
+    status: "Completed",
+  },
+  {
+    id: "#1038",
+    customer: "Michael Davis",
+    product: "Basic Plan",
+    date: "Sep 6, 2026",
+    amount: "$99",
+    status: "Cancelled",
+  },
+  {
+    id: "#1037",
+    customer: "Olivia Taylor",
+    product: "Enterprise",
+    date: "Sep 5, 2026",
+    amount: "$599",
+    status: "Completed",
+  },
+  {
+    id: "#1036",
+    customer: "Daniel Anderson",
+    product: "Pro Plan",
+    date: "Sep 4, 2026",
+    amount: "$249",
+    status: "Pending",
+  },
+  {
+    id: "#1035",
+    customer: "Sophia Martinez",
+    product: "Basic Plan",
+    date: "Sep 3, 2026",
+    amount: "$99",
+    status: "Completed",
+  },
+];
+
+export default orders;

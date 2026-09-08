@@ -1,0 +1,68 @@
+const customers = [
+  {
+    name: "John Smith",
+    email: "john.smith@example.com",
+    plan: "Pro",
+    status: "Active",
+    revenue: "$4,820",
+    joined: "Aug 24, 2026",
+  },
+  {
+    name: "Sarah Lee",
+    email: "sarah.lee@example.com",
+    plan: "Enterprise",
+    status: "Active",
+    revenue: "$8,420",
+    joined: "Aug 18, 2026",
+  },
+  {
+    name: "Alex Brown",
+    email: "alex.brown@example.com",
+    plan: "Basic",
+    status: "Inactive",
+    revenue: "$1,240",
+    joined: "Aug 12, 2026",
+  },
+  {
+    name: "Emma Wilson",
+    email: "emma.wilson@example.com",
+    plan: "Pro",
+    status: "Active",
+    revenue: "$5,680",
+    joined: "Aug 08, 2026",
+  },
+  {
+    name: "Michael Davis",
+    email: "michael.davis@example.com",
+    plan: "Basic",
+    status: "Active",
+    revenue: "$2,140",
+    joined: "Jul 29, 2026",
+  },
+  {
+    name: "Olivia Taylor",
+    email: "olivia.taylor@example.com",
+    plan: "Enterprise",
+    status: "Active",
+    revenue: "$9,240",
+    joined: "Jul 21, 2026",
+  },
+  {
+    name: "Daniel Anderson",
+    email: "daniel.anderson@example.com",
+    plan: "Pro",
+    status: "Inactive",
+    revenue: "$3,460",
+    joined: "Jul 15, 2026",
+  },
+  {
+    name: "Sophia Martinez",
+    email: "sophia.martinez@example.com",
+    plan: "Basic",
+    status: "Active",
+    revenue: "$1,820",
+    joined: "Jul 09, 2026",
+  },
+];
+
+export default customers;
